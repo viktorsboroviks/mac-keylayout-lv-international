@@ -12,11 +12,11 @@ This custom key layout has 3 changes to fix the situation.
 ## Installation
 
 1. Download files from this repository
-2. Copy Latvian-International.bundle to `~/Library/Keyboard Layouts/`
-manually or via Terminal:
+2. Copy Latvian-International.bundle to `Library/Keyboard Layouts/`
+under your user's home manually or via Terminal:
 
 ```zsh
-cp -R Latvian-International.bundle `~/Library/Keyboard Layouts/`
+cp -R Latvian-International.bundle "~/Library/Keyboard Layouts/"
 ```
 
 3. Restart
