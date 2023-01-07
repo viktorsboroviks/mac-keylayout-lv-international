@@ -5,19 +5,19 @@ introduces symbols that do not match the ones on the physical keyboard.
 
 This custom key layout has 3 changes to fix the situation.
 
-- <code>Shift</code> + <code>3</code> = <code>#</code> (instead of <code>£</code>)
-- <code>Shift</code> + <code>§</code> = <code>±</code> (instead of <code>#</code>)
-- Lower left <code>'</code> replaced with <code>`</code>
+- ``Shift`` + ``3`` = ``#`` (instead of ``£``)
+- ``Shift`` + ``§`` = ``±`` (instead of ``#``)
+- Lower left ``'`` replaced with `` ` ``
 
 ## Installation
 
 1. Download files from this repository
 2. Copy `Latvian-International.bundle` to `Library/Keyboard Layouts/`
-under your user's home directory manually or via Terminal:
+   under your user's home directory manually or via Terminal:
 
-```zsh
-cp -R Latvian-International.bundle "~/Library/Keyboard Layouts/"
-```
+   ```zsh
+   cp -R Latvian-International.bundle "~/Library/Keyboard Layouts/"
+   ```
 
 3. Restart
 
